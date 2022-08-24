@@ -1,0 +1,53 @@
+*{
+	margin: 0%;
+	padding: 0%;
+}
+h1{
+	background-color: #FFAE42;
+	text-align: center;
+}
+
+
+.card{
+	max-width: 300px;
+    width: 20.5%;
+    padding: 0 10px;
+    display: flex;
+    float: left;
+
+}
+
+.nav{
+	position: fixed;
+	flex-wrap: wrap;
+
+}
+.content{
+	margin: auto;
+}
+.collection{
+	text-align: center;
+	font-size: 30px;
+	font-display: block;
+	font-weight: bold;
+	font-style: !important;
+}
+.clothes{
+	max-width: 300px;
+    width: 20.5%;
+    padding: 0 10px;
+    display: flex;
+    float: left;
+}
+h2{
+	text-align: center;
+	font-size: 30px;
+	font-display: block;
+	font-weight: bold;
+	font-style: !important;
+}
+.input-group{
+	align-items: center;
+	align-content: flex-end;
+
+}
